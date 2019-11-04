@@ -2,9 +2,9 @@ using System.Diagnostics;
 
 namespace USC.GISResearchLab.Common.Logs
 {
-	/// <summary>
-	/// Summary description for LogLevels.
-	/// </summary>
+    /// <summary>
+    /// Summary description for LogLevels.
+    /// </summary>
     public class LogLevels
     {
         public static int[] Levels = { 0, 1, 2, 3, 4, 5, 6 };
@@ -44,6 +44,6 @@ namespace USC.GISResearchLab.Common.Logs
             return ret;
         }
 
-        
+
     }
 }
